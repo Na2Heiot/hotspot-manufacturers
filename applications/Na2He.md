@@ -158,8 +158,8 @@ In the current market, purchasing parts is still challenging - some supply chain
 ## Other information (required)
 
 * Contact info (* required) - &emsp;<font color=blue>na2heiot@gmail.com</font> 
-* Discord profile - na2he#2371
-* Twitter profile - <font color=blue>@Na2HeTech</font>
+* Discord supports channel : [na2he](https://discord.gg/jWnVsreEZW)
+* Twitter profile - @Na2HeTech
 * Facebook profile - No
 * Other social profiles - No
 * Website -&emsp; [http://www.e-ai.net/](http://www.e-ai.net/)
